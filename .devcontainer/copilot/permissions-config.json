@@ -1,0 +1,32 @@
+{
+  "locations": {
+    "/workspaces/copilot-cli-devcontainer": {
+      "tool_approvals": [
+        {
+          "kind": "write"
+        },
+        {
+          "kind": "commands",
+          "commandIdentifiers": [
+            "git",
+            "ls",
+            "cat",
+            "grep",
+            "sed",
+            "find",
+            "mkdir",
+            "cp",
+            "mv",
+            "rm",
+            "touch",
+            "chmod",
+            "npm",
+            "node",
+            "python",
+            "python3"
+          ]
+        }
+      ]
+    }
+  }
+}

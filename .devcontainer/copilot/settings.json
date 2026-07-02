@@ -1,0 +1,11 @@
+{
+  "autoUpdate": true,
+  "trustedFolders": [
+    "/workspaces/copilot-cli-devcontainer"
+  ],
+  "allowedUrls": [
+    "https://docs.github.com",
+    "https://docs.python.org"
+  ],
+  "deniedUrls": []
+}
